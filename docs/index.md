@@ -6,13 +6,13 @@ title: Test Title
   "@type": "HowTo",
   "name": "How I train my dog",
   "description": "Here's how I do it.",
-  "totalTime": "10",
+  "totalTime": "5",
   "estimatedCost": {
     "@type": "MonetaryAmount",
     "value": "0",
     "currency": "USD"
   },
-  "image": "",
+  "image": "http://smarvin.github.io/json-ld-test/docs/bodhi.jpeg",
   "supply": [],
   "tool": [],
   "step": [
@@ -21,21 +21,21 @@ title: Test Title
       "name": "Beg",
       "description": "",
       "image": "",
-      "url": ""
+      "url": "http://smarvin.github.io/json-ld-test/docs/index.html#beg"
     },
     {
       "@type": "HowToStep",
       "name": "Plead",
       "description": "",
       "image": "",
-      "url": ""
+      "url": "http://smarvin.github.io/json-ld-test/docs/index.html#plead"
     },
     {
       "@type": "HowToStep",
       "name": "Bribe",
       "description": "",
       "image": "",
-      "url": ""
+      "url": "http://smarvin.github.io/json-ld-test/docs/index.html#bribe"
     },
     {
       "@type": "HowToStep",
@@ -49,7 +49,7 @@ title: Test Title
       "name": "Collapse onto knees and weep",
       "description": "",
       "image": "",
-      "url": ""
+      "url": "http://smarvin.github.io/json-ld-test/docs/index.html#collapse"
     }
   ]
 }   
